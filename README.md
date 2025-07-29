@@ -1,4 +1,4 @@
-<h2>CSS Text Overlay On Fade</h2>
+<h2>CSS Text Overlay On Image</h2>
 
 <a href="https://sivaraj47.github.io/CSS-Text-Overly-on-Fade/">Preview this as demo:</a>
 ![image](https://github.com/sivaraj47/CSS-Text-Overly-on-Fade/assets/9676262/ebbb65a5-b1b1-4feb-ba50-55780f48c5a4)
